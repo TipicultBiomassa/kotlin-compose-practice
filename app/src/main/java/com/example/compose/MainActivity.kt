@@ -48,7 +48,6 @@ class MainActivity : ComponentActivity() {
                 Item("", "")
                 Item("", "")
                 Item("", "")
-                Item("", "")
             }
         }
 
